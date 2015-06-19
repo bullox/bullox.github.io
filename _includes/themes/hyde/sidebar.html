@@ -26,9 +26,8 @@
             {% endif %}
         {% endfor %}
 
-        {% if site.github.repo != false %}
-            <li class="sidebar-nav-item"><a href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a></li>
-            <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>
+        {% if site.author.github != false %}
+            <li class="sidebar-nav-item"><a href="{{ site.author.github }}">GitHub project</a></li>
         {% endif %}
         </ul>
 
