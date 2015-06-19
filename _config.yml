@@ -10,7 +10,6 @@ highlighter: pygments
 #
 title : bullo.cc
 tagline: Steve Bullock
-description: Steve Bullock
 author :
   name : Steve Bullock
   email : steve@bullo.cc
