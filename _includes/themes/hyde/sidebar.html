@@ -5,15 +5,13 @@
              <p class="lead">{{ site.tagline }}</p>
         </div>
 
+        {% comment %}
         <ul class="sidebar-nav">
         <li class="sidebar-nav-item{% if page.title == " Home" %} active{% endif %}">
         <a href="/">Home</a>
         </li>
-
-        {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
-        {% endcomment %}
 
         {% assign pages_list = site.pages %}
         {% for node in pages_list %}
@@ -25,8 +23,10 @@
                 {% endif %}
             {% endif %}
         {% endfor %}
-
         </ul>
+        {% endcomment %}
+
+        {% include menu %}
 
         <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
         <br />
