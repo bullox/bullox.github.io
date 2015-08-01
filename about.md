@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-I’m an engineer, scientist, researcher, communicator and maker—rarely in that order. I currently spend a large amount of my time in the [Department of Aerospace Engineering](http://www.bristol.ac.uk/engineering/departments/aerospace/) at the [University of Bristol](http://www.bristol.ac.uk/).
+I’m an engineer, teacher, communicator and maker --- rarely in that order. I currently spend a large amount of my time in the [Department of Aerospace Engineering](http://www.bristol.ac.uk/engineering/departments/aerospace/) at the [University of Bristol](http://www.bristol.ac.uk/).
 
 ## Site
 
-This site is built using the fantastic [Jekyll](http://jekyllrb.com/) and [Jekyll Bootstrap](http://jekyllbootstrap.com/), hosted on [GitHub Pages](https://pages.github.com) and uses a theme based on [Hyde](http://hyde.getpoole.com/) with adaptations ~~shamelessly~~ respectfully copied from [Nate Finch](http://npf.io).
+This site is built using the fantastic [Jekyll](http://jekyllrb.com/) and [Jekyll Bootstrap](http://jekyllbootstrap.com/), hosted on [GitHub Pages](https://pages.github.com) and uses a theme based on [Hyde](http://hyde.getpoole.com/) with adaptations <strike>shamelessly</strike> respectfully copied from [Nate Finch](http://npf.io).
 
 ## A load of Bullocks
 
