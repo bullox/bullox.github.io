@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+nav: 1
 ---
 {% include JB/setup %}
 

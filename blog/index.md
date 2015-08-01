@@ -2,8 +2,9 @@
 layout: page
 title : Blog
 header : Blog posts
-group: navigation
+nav: 2
 ---
+
 {% include JB/setup %}
 
 {% assign posts_collate = site.posts %}
