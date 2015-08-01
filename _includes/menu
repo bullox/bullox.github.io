@@ -1,0 +1,10 @@
+{% assign pages = site.pages | sort:"nav"  %}
+<ul class="sidebar-nav">
+  {% for p in pages %}
+    {% if p.nav %}
+      <li class="sidebar-nav-item{% if p.url == node.url %} active{% endif %}">
+        <a href="{{ p.url }}">{{ p.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
