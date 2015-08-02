@@ -7,6 +7,6 @@ nav: 1
 
 # Hello
 
-I’m an engineer, scientist, teacher, researcher, communicator and maker -— rarely in that order. I currently spend a large amount of my time in the [Department of Aerospace Engineering](http://www.bristol.ac.uk/engineering/departments/aerospace/) at the [University of Bristol](http://www.bristol.ac.uk/).
+I’m Steve. Find out more [about me](/about), or see what I've written below.
 
 {% include latest_post %}
