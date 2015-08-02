@@ -3,7 +3,7 @@
   {% for p in pages %}
     {% if p.nav %}
       <li class="sidebar-nav-item{% if p.url == node.url %} active{% endif %}">
-        <a href="{{ p.url }}">{{ p.title }}</a>
+        <a href="{{ p.url|remove:'index.html' }}">{{ p.title }}</a>
       </li>
     {% endif %}
   {% endfor %}
