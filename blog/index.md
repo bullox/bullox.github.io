@@ -1,7 +1,6 @@
 ---
 layout: page
-title : Blog
-header : Blog posts
+title: Blog
 nav: 2
 ---
 
