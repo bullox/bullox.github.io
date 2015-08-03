@@ -7,6 +7,6 @@ nav: 1
 
 # Hello
 
-I’m Steve. Find out more [about me](/about), or see what I've written below.
+I’m Steve. Find out more [about me](/about), or check out [some stuff I've written](/blog/)
 
 {% include latest_post %}
