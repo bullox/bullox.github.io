@@ -6,6 +6,12 @@ nav: 5
 
 I’m an engineer, teacher, communicator and maker --- rarely in that order. I currently spend a large amount of my time in the [Department of Aerospace Engineering](http://www.bristol.ac.uk/engineering/departments/aerospace/) at the [University of Bristol](http://www.bristol.ac.uk/).
 
+## Things I do
+
+Lots of stuff! I think it's called a '[portfolio career](http://www.theguardian.com/education/2014/nov/27/could-a-portfolio-career-be-for-you)' by the cool kids. I quite like it. For the list of stuff I've done and do, check out my [LinkedIn profile](http://www.linkedin.com/in/bullox).
+
+I also have a [people page](http://www.bris.ac.uk/engineering/people/steve-e-bullock/) at the [University of Bristol](http://www.bristol.ac.uk), and have been known to post on Twitter occasionally as [@bullox](http://www.twitter.com/bullox).
+
 ## Site
 
 This site is built using the fantastic [Jekyll](http://jekyllrb.com/) and [Jekyll Bootstrap](http://jekyllbootstrap.com/), hosted on [GitHub Pages](https://pages.github.com) and uses a theme based on [Hyde](http://hyde.getpoole.com/) with adaptations <strike>shamelessly</strike> respectfully copied from [Nate Finch](http://npf.io).
