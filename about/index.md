@@ -4,7 +4,7 @@ title: About
 nav: 5
 ---
 
-I’m an engineer, teacher, communicator and maker --- rarely in that order. I currently spend a large amount of my time in the [Department of Aerospace Engineering](http://www.bristol.ac.uk/engineering/departments/aerospace/) at the [University of Bristol](http://www.bristol.ac.uk/).
+I’m an engineer, teacher, communicator and maker --- rarely in that order. I currently spend a large amount of my time in the [Faculty of Engineering](http://www.bristol.ac.uk/engineering/) at the [University of Bristol](http://www.bristol.ac.uk/).
 
 ## Things I do
 
