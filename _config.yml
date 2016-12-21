@@ -3,7 +3,7 @@
 permalink: /:year/:month/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+highlighter: rouge
 # paginate: 5
 
 # Themes are encouraged to use these universal variables
