@@ -7,4 +7,7 @@
       </li>
     {% endif %}
   {% endfor %}
+      <li class="sidebar-nav-item">
+        <a href="https://github.com/bullox/cv/blob/master/cv_sbullock.pdf">CV</a>
+      </li>
 </ul>
