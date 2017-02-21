@@ -4,7 +4,11 @@ title: Work
 nav: 3
 ---
 
-I mainly work at the [University of Bristol](http://www.bristol.ac.uk), but have a few sidelines too. **[Check out my CV here](https://github.com/bullox/cv/raw/master/cv_sbullock.pdf)**, and there are some links below to things I've worked on that I think are pretty cool.
+I mainly work at the [University of Bristol](http://www.bristol.ac.uk), but have a few sidelines too.
+
+**[Check out my CV](https://github.com/bullox/cv/blob/master/cv_sbullock.pdf)**.
+
+Here are some links to things I've worked on that I think are pretty cool.
 
 ## Educational Consultancy
 
