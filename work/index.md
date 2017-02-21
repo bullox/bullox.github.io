@@ -1,0 +1,25 @@
+---
+layout: page
+title: Work
+nav: 3
+---
+
+I mainly work at the [University of Bristol](http://www.bristol.ac.uk), but have a few sidelines too. **[Check out my CV here](https://github.com/bullox/cv/raw/master/cv_sbullock.pdf)**, and there are some links below to things I've worked on that I think are pretty cool.
+
+## Educational Consultancy
+
+* 2011-2016 [Google Science Fair](https://www.googlesciencefair.com) - preliminary and semi-final judge, scientific accuracy checker.
+* 2016 [STEM Crew](https://stemcrew.co.uk/), [Land Rover Ben Ainslie Racing](http://land-rover-bar.americascup.com/) - web and classroom resource development for the America's Cup team, and the grand opening including [teaching the Duchess of Cornwall some science](https://twitter.com/LandRoverBAR/status/733644956989001729)!
+* 2010-2016 [BP Educational Service](http://bpes.bp.com/) - wide range of secondary school web and print resource development.
+* 2013 [EDF Energy - The Pod](http://jointhepod.org/) - Waste Week sustainability activities - classroom and online.
+* 2012 - [RNLI educational resources](https://rnli.org/youth-education/education-resources) - interactive STEM activities about their new lifeboat.
+
+## STEM outreach
+
+* [The Cosmic Shed](http://thecosmicshed.com/): science fact, science fiction, and everything in between - an excellent podcast, featuring guests including BBC Planet Earth 2 producers, astronauts, and Benedict Cumberbatch!
+* Various [media appearances](https://twitter.com/bullox/status/755041222633328640) including BCfm's [Love and Science](http://bcfmradio.com/loveandscience), and BBC local radio.
+* [Hanging out with astronaut Tim Peake](https://twitter.com/bullox/status/700690802427699202), whilst he was on the International Space Station...
+
+## Other Things
+
+* Campaign Manager for [Elsa Hammond](https://elsahammond.com/)'s 2014 [Pacific Solo Row](https://elsahammond.com/row/) - £100k multi-year project, supporting [Plastic Oceans](http://www.plasticoceans.org/) and [The Great Initiative](http://www.thegreatinitiative.org.uk/). Really proud of our great [crowdfunding campaign](https://elsahammond.com/2400women/) and logistical fabulousness. Anyone want [an ocean rowing boat](http://rowdarien.com/)? One careful owner.
