@@ -6,7 +6,7 @@ nav: 3
 
 I mainly work at the [University of Bristol](http://www.bristol.ac.uk), but have a few sidelines too.
 
-**[Check out my CV](https://github.com/bullox/cv/blob/master/cv_sbullock.pdf)**.
+**For the nitty gritty details and wider info, please [check out my CV](https://github.com/bullox/cv/blob/master/cv_sbullock.pdf)**.
 
 Here are some links to things I've worked on that I think are pretty cool.
 
