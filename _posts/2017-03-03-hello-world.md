@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
+description: "In which I test if this blog is working."
 category: site
 tags: []
 ---
