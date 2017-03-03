@@ -4,7 +4,7 @@ title: "What's the point?"
 description: "In which I work out why I've decided to start using my website."
 category: site
 tags: []
-published:false
+published: false
 ---
 {% include JB/setup %}
 
