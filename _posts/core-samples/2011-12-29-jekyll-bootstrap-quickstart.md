@@ -3,6 +3,7 @@ layout: post
 title: Jekyll Bootstrap quickstart
 category: site
 tags: []
+published: false
 ---
 
 {% include JB/setup %}
