@@ -10,6 +10,12 @@ I mainly work at the [University of Bristol](http://www.bristol.ac.uk), but have
 
 Here are some links to things I've worked on that I think are pretty cool.
 
+## Teaching
+
+* Trained with [Teach First](https://www.teachfirst.org.uk/), aiming to address educational inequality in the UK.
+* Taught science/physics at two secondary schools [Wembley High](http://www.whtc.co.uk/) and [King Solomon Academy](http://kingsolomonacademy.org/) alongside some total rockstar colleagues.
+* Currently lecturing [Engineering](http://bristol.ac.uk/engineering/) at the [University of Bristol](http://www.bristol.ac.uk/), trialling [innovative teaching methods](http://www.bristol.ac.uk/tel/ideas/all/ex039.html), widening the diversity of our student base, and increasingly taking on strategic roles.
+
 ## Educational Consultancy
 
 * 2011-2016 [Google Science Fair](https://www.googlesciencefair.com) - preliminary and semi-final judge, scientific accuracy checker.
