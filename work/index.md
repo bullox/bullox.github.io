@@ -18,11 +18,11 @@ Here are some links to things I've worked on that I think are pretty cool.
 
 ## Educational Consultancy
 
-* 2011-2016 [Google Science Fair](https://www.googlesciencefair.com) - preliminary and semi-final judge, scientific accuracy checker.
-* 2016 [STEM Crew](https://stemcrew.co.uk/), [Land Rover Ben Ainslie Racing](http://land-rover-bar.americascup.com/) - web and classroom resource development for the America's Cup team, and the grand opening including [teaching the Duchess of Cornwall some science](https://twitter.com/LandRoverBAR/status/733644956989001729)!
-* 2010-2016 [BP Educational Service](http://bpes.bp.com/) - wide range of secondary school web and print resource development.
-* 2013 [EDF Energy - The Pod](http://jointhepod.org/) - Waste Week sustainability activities - classroom and online.
-* 2012 - [RNLI educational resources](https://rnli.org/youth-education/education-resources) - interactive STEM activities about their new lifeboat.
+* [Google Science Fair](https://www.googlesciencefair.com) - for past six years - preliminary and semi-final judge, scientific accuracy checker.
+* [STEM Crew](https://stemcrew.co.uk/), [Land Rover Ben Ainslie Racing](http://land-rover-bar.americascup.com/) - web and classroom resource development for the America's Cup team, and the grand opening including [teaching the Duchess of Cornwall some science](https://twitter.com/LandRoverBAR/status/733644956989001729)!
+* [BP Educational Service](http://bpes.bp.com/) - wide range of secondary school web and print resource development.
+* [EDF Energy - The Pod](http://jointhepod.org/) - Waste Week sustainability activities - classroom and online.
+* [RNLI educational resources](https://rnli.org/youth-education/education-resources) - interactive STEM activities about their new lifeboat.
 
 ## STEM outreach
 
