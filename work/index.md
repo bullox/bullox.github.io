@@ -13,7 +13,7 @@ Here are some links to things I've worked on that I think are pretty cool.
 ## Teaching
 
 * Trained with [Teach First](https://www.teachfirst.org.uk/), aiming to address educational inequality in the UK.
-* Taught science/physics at two secondary schools, [Wembley High](http://www.whtc.co.uk/) and [King Solomon Academy](http://kingsolomonacademy.org/), alongside some total rockstar colleagues.
+* Taught science/physics at two secondary schools, [Wembley High](http://www.whtc.co.uk/) and [King Solomon Academy](http://kingsolomonacademy.org/), alongside some total rockstar colleagues (shout out to [Mr Douglas](https://twitter.com/sjc_douglas) and [Mr Reddy](https://twitter.com/mrreddymaths), or should I say [Baz Wynter](https://twitter.com/TTRockStars)?).
 * Currently lecturing [Engineering](http://bristol.ac.uk/engineering/) at the [University of Bristol](http://www.bristol.ac.uk/), trialling [innovative teaching methods](http://www.bristol.ac.uk/tel/ideas/all/ex039.html), widening the diversity of our student base, and increasingly taking on strategic roles.
 
 ## Educational Consultancy
