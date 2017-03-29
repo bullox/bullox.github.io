@@ -27,7 +27,8 @@ Here are some links to things I've worked on that I think are pretty cool.
 ## STEM outreach
 
 * [The Cosmic Shed](http://thecosmicshed.com/): science fact, science fiction, and everything in between - an excellent podcast, featuring guests including BBC Planet Earth 2 producers, astronauts, and Benedict Cumberbatch!
-* Various [media appearances](https://twitter.com/bullox/status/755041222633328640) including BCfm's [Love and Science](http://bcfmradio.com/loveandscience), and BBC local radio. A couple of 'proper' TV appearances including [Motor Morphers](http://www.channel5.com/show/motor-morphers/), by the same team as Scrapheap Challenge - will link if I can find footage!
+* A wide range of engineering experience sessions with the [SS Great Britain](http://www.ssgreatbritain.org/)'s [Future Brunels](http://www.ssgreatbritain.org/brunel-institute/future-brunels-programme) programme.
+* Various [media appearances](https://twitter.com/bullox/status/755041222633328640) including BCfm's [Love and Science](http://bcfmradio.com/loveandscience), and BBC local radio. A couple of 'proper' TV appearances including [Motor Morphers](http://www.channel5.com/show/motor-morphers/), by the same team as [Scrapheap Challenge](http://www.channel4.com/programmes/scrapheap-challenge).
 * [Hanging out with astronaut Tim Peake](https://twitter.com/bullox/status/700690802427699202), whilst he was on the International Space Station...
 
 ## Other Things
