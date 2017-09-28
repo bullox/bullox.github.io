@@ -8,5 +8,3 @@ nav: 1
 # Hello
 
 I’m Steve. Find out more [about me](/about), check out [my work](/work) or read [some stuff I've written](/blog/).
-
-{% include latest_post %}
