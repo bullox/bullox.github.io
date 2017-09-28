@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 nav: 2
+sitemap: false
 ---
 
 {% include JB/setup %}
