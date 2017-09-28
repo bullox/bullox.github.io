@@ -6,13 +6,13 @@ nav: 3
 
 I mainly work at the [University of Bristol](http://www.bristol.ac.uk), but have a few sidelines too.
 
-**For the nitty gritty details and wider info, please [check out my CV](https://github.com/bullox/cv/blob/master/cv_sbullock.pdf)**.
+**For the nitty gritty details and wider info, please [check out my CV](/cv/)**.
 
 Here are some links to things I've worked on that I think are pretty cool.
 
 ## Research
 
-* PhD research involved making giant robots pretend to be aeroplanes -- using a [relative motion robotics rig](http://www.bristol.ac.uk/engineering/facilities/rmr.html) to test sensors and control systems for formation flight and aerial refuelling. 
+* PhD research involved making giant robots pretend to be aeroplanes -- using a [relative motion robotics rig](http://www.bristol.ac.uk/engineering/facilities/rmr.html) to test sensors and control systems for formation flight and aerial refuelling.
 * Current work is with quadcopter/drone applications and autonomy. I also help my brother do clever things with his company [101 Aerial](https://101aerial.tech).
 
 ## Teaching
