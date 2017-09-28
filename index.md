@@ -7,5 +7,5 @@ nav: 1
 
 # Hello
 
-![Steve's mugshot](/steve.jpg)
+<img style="float: right;" src="/steve.jpg">
 I’m Steve. Find out more [about me](/about), check out [my work](/work) or read [some stuff I've written](/blog/).
