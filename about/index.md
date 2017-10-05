@@ -4,7 +4,6 @@ title: About
 nav: 5
 ---
 
-<img style="float: right;" src="./rmr.jpg">
 I’m an engineer, teacher, communicator and maker --- rarely in that order. I currently spend a large amount of my time in the [Faculty of Engineering](http://www.bristol.ac.uk/engineering/) at the [University of Bristol](http://www.bristol.ac.uk/).
 
 ## Things I do
