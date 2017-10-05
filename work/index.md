@@ -42,4 +42,4 @@ Here are some links to things I've worked on that I think are pretty cool.
 
 ## Other Things
 
-* Campaign Manager for [Elsa Hammond](https://elsahammond.com/)'s 2014 [Pacific Solo Row](https://elsahammond.com/row/) - £100k multi-year project, supporting [Plastic Oceans](http://www.plasticoceans.org/) and [The Great Initiative](http://www.thegreatinitiative.org.uk/). Really proud of our great [crowdfunding campaign](https://elsahammond.com/2400women/) and logistical fabulousness. Anyone want [an ocean rowing boat](http://rowdarien.com/)? One careful owner.
+* Campaign Manager for [Elsa Hammond](https://elsahammond.com/)'s 2014 [Pacific Solo Row](https://elsahammond.com/row/) - £100k multi-year project, supporting [Plastic Oceans](http://www.plasticoceans.org/) and [The Great Initiative](http://www.thegreatinitiative.org.uk/). Really proud of our great [crowdfunding campaign](https://elsahammond.com/2400women/) and logistical fabulousness. ~~Anyone want [an ocean rowing boat](http://rowdarien.com/)? One careful owner.~~ Now in the care of the fantastic [Damian Browne](http://damianbrowne.com).
