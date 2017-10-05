@@ -25,6 +25,8 @@ Here are some links to things I've worked on that I think are pretty cool.
 
 ## Educational Consultancy
 
+<img style="float: right;" src="./lrbar.jpg">
+
 * [Google Science Fair](https://www.googlesciencefair.com) - for past six years - preliminary and semi-final judge, scientific accuracy checker.
 * [STEM Crew](https://stemcrew.co.uk/), [Land Rover Ben Ainslie Racing](http://land-rover-bar.americascup.com/) - web and classroom resource development for the America's Cup team, and the grand opening including [teaching the Duchess of Cornwall some science](https://twitter.com/LandRoverBAR/status/733644956989001729)!
 * [BP Educational Service](http://bpes.bp.com/) - wide range of secondary school web and print resource development.
