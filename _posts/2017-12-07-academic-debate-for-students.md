@@ -3,8 +3,12 @@ layout: post
 title: "Academic debate for students"
 description: "How to embrace disagreement and get your point across effectively"
 category: site
-tags: []
-published: false
+tags: 
+ - students
+ - advice
+ - debate
+ - academia
+published: true
 ---
 {% include JB/setup %}
 
