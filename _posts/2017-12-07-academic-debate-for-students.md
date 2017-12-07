@@ -12,10 +12,12 @@ published: true
 ---
 {% include JB/setup %}
 
-I received an email from a student of mine expressing displeasure at the University's choice to share a video of two of our academics discussing the conflict in Catalonia and Spain. This was my initial response, but I hope that I get further opportunity to engage!
+I received an email from a student of mine expressing displeasure at the University's choice to share a video of two of our academics discussing the conflict in Catalonia and Spain. I anticipate having my reply on hand will be useful for future student advice, so am posting here. This was my initial response, but I hope that I get further opportunity to engage!
 
 > Thank you for sending this to me. I confess that I am more ignorant than I would like to be on the Catalonia issue. Whilst making the disclaimer that I am not informed enough to comment on this specific issue, I'd like to give you (and the Society, if you'd like to pass this on) some guidance on addressing the matter. I hope that my currently neutral stance on the matter does not prevent you from engaging with what I hope comes across as some fairly constructive, specific and strategic advice -- in fact, I hope that by following this you can help me understand your viewpoints and even change my and others' minds.
+>
 > Here goes...
+>
 > There is a strong principle in universities across the world of '[academic freedom](https://en.wikipedia.org/wiki/Academic_freedom)' -- in this instance there's a [quote](https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall) that sums it up quite nicely: "I disapprove of what you say, but I will defend to the death your right to say it". Therefore my default position, regardless of the message (barring some fairly clearly legally-defined limitations on '[hate speech](https://en.wikipedia.org/wiki/Hate_speech_laws_in_the_United_Kingdom)'), would be that it is within the academics' right to voice their views, and for anyone who wishes to challenge them to voice theirs too. It is up to individuals whether to listen!
 >
 > I would encourage you and your colleagues to engage, as you are doing, by publishing your own thoughts on the matter. Thus a series of thoughts and advice:
