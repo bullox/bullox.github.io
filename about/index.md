@@ -21,10 +21,10 @@ This site is built using the fantastic [Jekyll](http://jekyllrb.com/), hosted on
 There are other Steve Bullocks in the world. In case I'm not the Steve Bullock you're looking for:
 
 * [Steve Bullock](https://twitter.com/GuitarMoog), ex-EU negotiator
-* [Steve Bullock](https://www.lewisham.gov.uk/mayorandcouncil/mayor/Pages/default.aspx), Mayor of Lewisham
 * [Steve Bullock](https://governor.mt.gov/), Governor of Montana
 * [Steve Bullock](http://www.benrose.org/mythbusters/mb_Bullock.cfm), interim President of American Red Cross, and Principal of The Bullock Group LLC
 * [Steve Bullock](http://www.nemesisagency.co.uk/model/steve-bullock), the attractive one
 * [Steve Bullock](https://www.hrpediatricdentistry.com/about-us/meet-our-doctors/dr-steve-bullock/), beat me to being a Dr.
+* [Sir Steve Bullock](https://www.lewisham.gov.uk/mayorandcouncil/mayor/Pages/default.aspx), Mayor of Lewisham, beat me to being a Sir.
 
 Please let me know if you are a Steve Bullock who should be on this list.
