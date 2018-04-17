@@ -15,13 +15,15 @@ Here are some links to things I've worked on that I think are pretty cool.
 <img style="float: right;" src="./rmr.jpg">
 
 * PhD research involved making giant robots pretend to be aeroplanes -- using a [relative motion robotics rig](http://www.bristol.ac.uk/engineering/facilities/rmr.html) to test sensors and control systems for formation flight and aerial refuelling.
-* Current work is with quadcopter/drone applications and autonomy. I also help my brother do clever things with his company [101 Aerial](https://101aerial.tech).
+* Current work is with quadcopter/drone applications and autonomy.
+* I also help my brother do clever things with his company [101 Aerial](https://101aerial.tech).
 
 ## Teaching
 
 * Trained with [Teach First](https://www.teachfirst.org.uk/), aiming to address educational inequality in the UK.
 * Taught science/physics at two secondary schools, [Wembley High](http://www.whtc.co.uk/) and [King Solomon Academy](http://kingsolomonacademy.org/), alongside some total rockstar colleagues (shout out to [Mr Douglas](https://twitter.com/sjc_douglas) and [Mr Reddy](https://twitter.com/mrreddymaths), or should I say [Baz Wynter](https://twitter.com/TTRockStars)?).
 * Currently lecturing [Engineering](http://bristol.ac.uk/engineering/) at the [University of Bristol](http://www.bristol.ac.uk/), trialling [innovative teaching methods](http://www.bristol.ac.uk/tel/ideas/all/ex039.html), widening the diversity of our student base, and increasingly taking on strategic roles.
+* Also leading on partnerships for student projects and competitions, including [Airbus Drone Dash](https://www.youtube.com/watch?v=7RWNkRRQ9j8) and [Aardman/Grand Appeal/Gromit Unleashed Trailblazers](https://www.bristol.ac.uk/news/2017/november/gromit-unleashed-two.html).
 
 ## Educational Consultancy
 
