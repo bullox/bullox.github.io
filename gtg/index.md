@@ -8,8 +8,8 @@ sitemap: false
 
 Delivered in a light-hearted way, students will gain insight into how HE institutions perceive grades and other application information, reflect on their learning to date, receive tips on techniques and habits to maximise their performance, and set goals for their future learning.
 
-![Learning graph](graph.png)
-![Objectives card](wwwebi.png)
+![Learning graph](/assets/graph.png)
+![Objectives card](/assets/wwwebi.png)
 
 
 ## Learning objectives
