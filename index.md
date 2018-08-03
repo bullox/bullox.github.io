@@ -12,4 +12,5 @@ I’m Steve.
 
 * Find out more [about me](/about).
 * Check out [my work](/work).
+* Book some [talks](/talks).
 * View [my CV](/cv).
