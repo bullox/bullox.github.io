@@ -14,7 +14,7 @@ I also have a [people page](http://www.bris.ac.uk/engineering/people/steve-e-bul
 
 ### Site
 
-This site is built using the fantastic [Jekyll](http://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com) and uses the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
+This site is built using the fantastic [Jekyll](http://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com) and uses the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme by [Michael Rose](https://mademistakes.com).
 
 ### A load of Bullocks
 
