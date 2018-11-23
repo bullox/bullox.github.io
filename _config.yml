@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Steve Bullock"
   avatar           : "/assets/images/steve.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aerospace Programme Director at Bristol Uni. Engineering, science, teaching, outreach. Occasional adventurer. @thecosmicshed presenter. @TeachFirst ambassador."
+  bio              : "Aerospace Programme Director at [Bristol Uni](http://www.bristol.ac.uk). Engineering, science, teaching, outreach. Occasional adventurer. @thecosmicshed presenter. @TeachFirst ambassador."
   location         : "Bristol, UK"
   email            :
   links:
