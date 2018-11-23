@@ -1,4 +1,4 @@
-# [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
+# [bullo.cc](https://bullo.cc)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
@@ -8,11 +8,11 @@ Personal site for Steve Bullock, Bristol, UK.
 
 ## Licence
 
-# Site Content
+### Site Content
 
 All content copyright (c) 2018-date Steve Bullock
 
-# Site theme
+### Site theme
 
 Based on [Minimal Mistakes][1].
 
