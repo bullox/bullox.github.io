@@ -114,7 +114,7 @@ author:
       url: mailto:steve@bullo.cc
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://bullo.cc"
+      # url: "https://bullo.cc"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bullox"
