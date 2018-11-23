@@ -3,10 +3,8 @@
 Personal site for Steve Bullock, Bristol, UK.
 
 ## Licence
- 
-### Site Content
 
-All content copyright (c) 2018-date Steve Bullock
+All site content copyright (c) 2018-date Steve Bullock, except where otherwise noted.
 
 ### Site theme
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
