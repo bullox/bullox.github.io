@@ -6,7 +6,7 @@
 
 Personal site for Steve Bullock, Bristol, UK.
 
-Based on [Minimal Mistakes][1]
+Based on [Minimal Mistakes][1].
 
 [1]: https://mmistakes.github.io/
 
