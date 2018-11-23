@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Steve Bullock"
   avatar           : "/assets/images/steve.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aerospace Programme Director at Bristol Uni, engineering, science, teaching, outreach. Occasional adventurer. @thecosmicshed presenter. @TeachFirst ambassador."
+  bio              : "Aerospace Programme Director at Bristol Uni. Engineering, science, teaching, outreach. Occasional adventurer. @thecosmicshed presenter. @TeachFirst ambassador."
   location         : "Bristol, UK"
   email            :
   links:
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bullox"
+      # url: "https://github.com/bullox"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
