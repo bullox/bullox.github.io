@@ -6,11 +6,17 @@
 
 Personal site for Steve Bullock, Bristol, UK.
 
+## Licence
+
+# Site Content
+
+All content copyright (c) 2018-date Steve Bullock
+
+# Site theme
+
 Based on [Minimal Mistakes][1].
 
 [1]: https://mmistakes.github.io/
-
-## License
 
 The MIT License (MIT)
 
