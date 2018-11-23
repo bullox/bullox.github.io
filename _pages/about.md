@@ -15,7 +15,7 @@ I also have a [people page](http://www.bris.ac.uk/engineering/people/steve-e-bul
 
 ### Site
 
-This site is built using the fantastic [Jekyll](http://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com) and uses a theme based on [Hyde](http://hyde.getpoole.com/) with adaptations <strike>shamelessly</strike> respectfully copied from [Nate Finch](http://npf.io).
+This site is built using the fantastic [Jekyll](http://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com) and uses the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
 
 ### A load of Bullocks
 
