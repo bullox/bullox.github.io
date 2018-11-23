@@ -130,6 +130,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/bullox"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.co.uk/citations?hl=en&user=ZDRz8MMAAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-book"
+      url: "https://orcid.org/0000-0001-9086-1055"
 
 # Site Footer
 footer:
