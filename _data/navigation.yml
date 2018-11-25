@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Work"
     url: /work/
+  - title: "CV"
+    url: /cv/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
