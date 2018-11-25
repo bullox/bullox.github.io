@@ -12,7 +12,7 @@ Here are some links to things I've worked on that I think are pretty cool.
 
 ## Research
 
-<img style="float: right;" src="./rmr.jpg">
+![RMR rig at University of Bristol](/assets/images/rmr.jpg)
 
 * PhD research involved making giant robots pretend to be aeroplanes -- using a [relative motion robotics rig](http://www.bristol.ac.uk/engineering/facilities/rmr.html) to test sensors and control systems for formation flight and aerial refuelling.
 * Current work is with quadcopter/drone applications and autonomy.
@@ -27,7 +27,7 @@ Here are some links to things I've worked on that I think are pretty cool.
 
 ## Educational Consultancy
 
-<img style="float: right;" src="./lrbar.jpg">
+![Teaching science to the Duchess of Cambridge at Land Rover BAR](/assets/images/lrbar.jpg)
 
 * [Google Science Fair](https://www.googlesciencefair.com) - preliminary and semi-final judge, and scientific accuracy checker, in every competition since its inception in 2011.
 * [STEM Crew](https://stemcrew.co.uk/), [Land Rover Ben Ainslie Racing](http://land-rover-bar.americascup.com/)'s educational programme - web and classroom resource development for the America's Cup team, and work on the grand opening of their 'Tech Deck' including [teaching the Duchess of Cornwall some science](https://twitter.com/LandRoverBAR/status/733644956989001729)!
