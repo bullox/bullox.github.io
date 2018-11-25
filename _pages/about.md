@@ -6,17 +6,17 @@ permalink: /about/
 
 I’m an engineer, teacher, communicator and maker --- rarely in that order. I currently spend a large amount of my time in the [Faculty of Engineering](http://www.bristol.ac.uk/engineering/) at the [University of Bristol](http://www.bristol.ac.uk/).
 
-### Things I do
+## Things I do
 
 Lots of stuff! I think it's called a '[portfolio career](http://www.theguardian.com/education/2014/nov/27/could-a-portfolio-career-be-for-you)' by the cool kids. I quite like it. For the list of stuff I've done and do, check out my [work page](/work/) and my [CV](/cv/).
 
 I also have a [people page](http://www.bris.ac.uk/engineering/people/steve-e-bullock/) at the [University of Bristol](http://www.bristol.ac.uk), I've been known to post on Twitter occasionally as [@bullox](http://www.twitter.com/bullox), and I have an (often out of date) [LinkedIn profile](http://www.linkedin.com/in/bullox).
 
-### Site
+## Site
 
 This site is built using the fantastic [Jekyll](http://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com) and uses the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme by [Michael Rose](https://mademistakes.com).
 
-### A load of Bullocks
+## A load of Bullocks
 
 There are other Steve Bullocks in the world. In case I'm not the Steve Bullock you're looking for:
 
