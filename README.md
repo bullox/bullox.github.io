@@ -11,7 +11,7 @@ All site content copyright (c) 2018-date Steve Bullock, except where otherwise n
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
 
-Based on [Minimal Mistakes][1].
+Uses [Minimal Mistakes][1].
 
 [1]: https://mmistakes.github.io/
 
