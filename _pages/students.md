@@ -10,4 +10,4 @@ permalink: /students/
 * Drop-in for others
 
 
-<iframe src='https://outlook.office365.com/owa/calendar/SteveBullock@bristol.ac.uk/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>
+<iframe src='https://outlook.office365.com/owa/calendar/SteveBullock@bristol.ac.uk/bookings/' width='600px' height='1200px' scrolling='yes' style='border:0'></iframe>
