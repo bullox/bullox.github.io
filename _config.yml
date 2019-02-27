@@ -139,7 +139,7 @@ author:
       icon: "fas fa-fw fa-book"
       url: "https://orcid.org/0000-0001-9086-1055"
     - label: "Mendeley"
-      icon: "fas fa-fw fa-globe"
+      icon: "fas fa-fw fa-mendeley"
       url: "https://www.mendeley.com/profiles/steve-bullock/"
 
 # Site Footer
