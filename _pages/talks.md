@@ -1,7 +1,7 @@
 ---
 title: Hello
 author_profile: true
-permalink: /about/
+permalink: /talks/
 ---
 
 ## Invite me
