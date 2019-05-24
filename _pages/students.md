@@ -11,4 +11,4 @@ permalink: /students/
 
 Please use the form below to scheduled meetings with me. Staff should use the standard internal calendaring system (although this will do the same job!).
 
-<iframe src='https://outlook.office365.com/owa/calendar/SteveBullock@bristol.ac.uk/bookings/' width='600px' height='1200px' scrolling='yes' style='border:0'></iframe>
+<iframe src='https://outlook.office365.com/owa/calendar/SteveBullock@bristol.ac.uk/bookings/' width='600px' height='2000px' scrolling='yes' style='border:0'></iframe>
