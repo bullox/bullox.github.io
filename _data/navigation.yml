@@ -6,6 +6,8 @@ main:
     url: /work/
   - title: "CV"
     url: /cv/
+  - title: "Talks"
+    url: /talks/
   - title: "Blog"
     url: /blog/
   # - title: "Sample Posts"
