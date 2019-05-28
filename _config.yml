@@ -19,7 +19,7 @@ locale                   : "en-GB"
 title                    : "bullo.cc"
 title_separator          : "-"
 name                     : "Steve Bullock"
-description              : "Personal site for Steve Bullock, Bristol, UK."
+description              : "Personal site for Dr Steve Bullock, Bristol, UK."
 url                      : "https://bullo.cc" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bullox/bullox.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Steve Bullock"
   avatar           : "/assets/images/steve.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aerospace Programme Director at Bristol Uni. Engineering, science, teaching, outreach. Occasional adventurer. @thecosmicshed presenter. @TeachFirst ambassador."
+  bio              : "#engineering #education #equality & #engagement. Aerospace Programme Director @BristolUni. @TheCosmicShed presenter. @TeachFirst ambassador. Occasional adventurer."
   location         : "Bristol, UK"
   email            :
   links:
