@@ -16,3 +16,7 @@ I deliver talks on:
 ## Past talks
 
 * list coming soon
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
