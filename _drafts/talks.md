@@ -2,6 +2,7 @@
 title: Talks
 author_profile: true
 permalink: /talks/
+draft: true
 ---
 
 ## Invite me
