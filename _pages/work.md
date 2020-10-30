@@ -6,7 +6,7 @@ permalink: /work/
 
 I mainly work at the [University of Bristol](http://www.bristol.ac.uk), but have a few sidelines too.
 
-For the nitty gritty details please [check out my CV](/cv/), and for personal stuff see [my about page](/about/).
+For the nitty gritty details please [check out my CV](/cv/), and for personal stuff see [my about page](/).
 
 Here are some links to things I've worked on that I think are pretty cool.
 
