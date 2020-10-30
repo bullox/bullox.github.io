@@ -1,7 +1,7 @@
 ---
 title: Hello
 author_profile: true
-permalink: /about/
+permalink: /
 ---
 
 I’m an engineer, teacher, communicator and maker --- rarely in that order. I currently spend a large amount of my time in the [Faculty of Engineering](http://www.bristol.ac.uk/engineering/) at the [University of Bristol](http://www.bristol.ac.uk/).
