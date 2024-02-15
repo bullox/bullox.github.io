@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /
-  - title: "Work"
-    url: /work/
-  - title: "CV"
-    url: /cv/
+  #- title: "Work"
+  #  url: /work/
+  #- title: "CV"
+  #  url: /cv/
   # - title: "Talks"
   #   url: /talks/
   # - title: "Blog"
